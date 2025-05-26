@@ -2,7 +2,7 @@
 This project classifies bike images into:
 - City Bikes
 - Race Bikes
-- 
+  
 Built with TensorFlow & MobileNetV2.
 
 https://colab.research.google.com/drive/1yFsYErV8RpxNq9jw4hegaZQwMZOt0izS#scrollTo=yIF09xzIjTax
